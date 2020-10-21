@@ -1,4 +1,4 @@
-# Happy-Next-Level_Week
+# Happy-Next-Level-Week
 
 Esse projeto foi elaborado pela Rocketseat, para o evento Next Level Week 3   
   
